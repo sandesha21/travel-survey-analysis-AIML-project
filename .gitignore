@@ -1,0 +1,137 @@
+# =============================================================================
+# SYSTEM FILES
+# =============================================================================
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# =============================================================================
+# PYTHON
+# =============================================================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# =============================================================================
+# VIRTUAL ENVIRONMENTS
+# =============================================================================
+
+venv/
+env/
+ENV/
+.venv/
+.env
+
+# =============================================================================
+# JUPYTER NOTEBOOK
+# =============================================================================
+
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# =============================================================================
+# IDE & EDITORS
+# =============================================================================
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+
+# =============================================================================
+# ML/DATA SCIENCE
+# =============================================================================
+
+# Model files
+*.pkl
+*.joblib
+*.h5
+*.model
+*.sav
+*.onnx
+
+# Data files (uncomment if you want to ignore large datasets)
+# *.csv
+# *.xlsx
+# *.json
+# *.parquet
+# *.hdf5
+# *.npz
+# *.npy
+
+# ML directories (uncomment if needed)
+# models/
+# checkpoints/
+# outputs/
+# results/
+# experiments/
+# wandb/
+
+# Submission files (uncomment if you don't want to track submissions)
+# *submission*.csv
+# final_submission.csv
+
+# =============================================================================
+# LOGS & TEMPORARY FILES
+# =============================================================================
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# =============================================================================
+# ENVIRONMENT VARIABLES
+# =============================================================================
+
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
