@@ -5,11 +5,22 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange?style=flat-square&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 ![Industry](https://img.shields.io/badge/Industry-Travel%20%26%20Transportation-blue?style=flat-square&logo=airplane&logoColor=white)
 ![Project Type](https://img.shields.io/badge/Project-Customer%20Analytics-purple?style=flat-square&logo=chart-line&logoColor=white)
 
 A machine learning project focused on predicting customer satisfaction (Overall Experience) based on travel survey data and passenger demographics.
+
+## 🎓 Academic Context
+
+This project was developed as part of the **MIT Professional Education Program - Applied AI and Data Science Program**.
+
+**Program Details:**
+- **Institution**: Massachusetts Institute of Technology (MIT)
+- **Program**: Applied AI and Data Science Program
+- **Focus**: Practical application of machine learning and data science techniques
+- **Website**: [MIT Online Data Science Program](https://professional-education-gl.mit.edu/mit-online-data-science-program)
+
+The project demonstrates real-world application of data science methodologies, following industry best practices and academic rigor expected in MIT's professional education curriculum.
 
 ## 🏷️ Keywords & Topics
 
@@ -163,7 +174,7 @@ Key evaluation metrics:
 
 ## 👨‍💻 Author  
 **Sandesh S. Badwaik**  
-*Data Scientist & Machine Learning Engineer*
+*Applied Data Scientist & Machine Learning Engineer*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sbadwaik/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandesha21)
